@@ -35,7 +35,6 @@ describe('Download And Extract File', function() {
 		processInstance
 			.unzipTarFile(createReadStream, tar, readTarPath, testPath)
 			.then(file => {
-				// console.log('file', file);
 				assert.equal(file, 'successful');
 				done();
 			});
