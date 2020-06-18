@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 
 import readFilesInstance from './readFiles';
-// import databaseInstance from './database';
+import databaseInstance from './database';
 import fileDownloadInstance from './downloadAndExtraction';
 
 dotenv.config();
