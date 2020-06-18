@@ -17,7 +17,7 @@ const filePathObject = {
 const unzipPath = './metadata_tech-test';
 const readTarPath = './metadata_tech-test/rdf-files.tar';
 const tarFilePath = './metadata_tech-test';
-const bz2FilePath = './metadata_tech-test/cache/epub';
+const bz2FilePath = './metadata_tech-test/cache';
 
 async function unzipTarFile() {
 	const unzipTarFileInstance = await processInstance.unzipTarFile(
