@@ -1,6 +1,6 @@
 # MetaData-Extractor
 
-The challenge is to build a metadata extractor for all the project Gutenberg titles which are available in [zip](http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.zip) and [tar](http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2) format
+A book metadata extractor for all the project Gutenberg titles which are available in [zip](http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.zip) and [tar](http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2) format
 
 ## To install the service Dependencies
 ```
